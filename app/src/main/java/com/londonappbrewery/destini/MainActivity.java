@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // TODO: Steps 4 & 8 - Declare member variables here:
+    // TODO: Steps 4 & 8 - Declare member variables here
     TextView mStory;
     Button mAns1;
     Button mAns2;
